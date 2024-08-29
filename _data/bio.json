@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Justine Afaga",
+    "label": "Student at the University of Hawaii Manōa",
+    "picture": "https://github.com/jafaga.png",
+    "email": "afagajus@hawaii.edu",
+    "phone": "(808)747-1203",
+    "website": "https://jafaga.github.io",
+    "summary": "I am studying for my B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jafaga", "url": "http://github.com/jafaga" },
+      { "network": "linkedin", "username": "Justine Afaga", "url": "https://www.linkedin.com/in/justine-afaga-051861278/" },
+      { "network": "x", "username": "jafaga_04", "url": "https://x.com/jafaga_04" },
+      { "network": "instagram", "username": "jafaga_04", "url": "https://www.instagram.com/jafaga_04/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computers" },
+    { "name": "Hardware" },
+    { "name": "Software" },
+    { "name": "AI" },
+    { "name": "Learning New Things" }
   ],
   "skills": [
     {
