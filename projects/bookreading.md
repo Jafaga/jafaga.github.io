@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Elementary-Schoolers.png
 title: "Elementary School Book Reading"
 date: 2015
 published: true
