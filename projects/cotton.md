@@ -56,4 +56,41 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+### Python Code Example
+
+Here is a sample Python code:
+
+<hr>
+
+<pre><code>
+# Get input from the user
+word = input()
+
+# Initialize an empty string to store the password
+password = ''
+
+# Convert the first character to uppercase
+password += word[0].upper()
+
+# Process the rest of the characters starting from index 1
+for char in word[1:]:
+    if char == 'm':
+        password += 'M'
+    elif char == 'i':
+        password += '1'
+    elif char == 'a':
+        password += '@'
+    elif char == 'B':
+        password += '8'
+    elif char == 's':
+        password += '$'
+    else:
+        password += char
+
+# Print the final password with an exclamation mark
+print(password + '!')
+</code></pre>
+
+<hr>
+
+Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon"></i>jogarces/ics-313-text-game</a>
