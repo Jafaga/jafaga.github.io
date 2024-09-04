@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/resized_image_300px.jpeg
 title: "Senior Project"
 date: 2022
 published: true
