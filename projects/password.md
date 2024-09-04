@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pass.jpg
+image: img/pass.jpeg
 title: "Password Changer"
 date: 2022
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
-<img class="img-fluid" src="../img/password.jpg">
+<img class="img-fluid" src="../img/password.jpeg">
 
 The code provided is a simple password enhancement program written in Python. It takes a word or phrase as input from the user and transforms it into a more secure version by replacing specific characters with more secure or symbolic alternatives. For example, it replaces lowercase "a" with "@", "s" with "$", and "i" with "1", among others. At the end, the program appends an exclamation mark to the transformed word to further enhance its strength as a password. This is a basic form of password masking or strengthening that mimics common security recommendations to use symbols and numbers in passwords.
 
