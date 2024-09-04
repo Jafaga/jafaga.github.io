@@ -13,9 +13,7 @@ summary: "In my first year of middle school, I created a children's storybook as
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="img/Elementary-Schoolers.png" class="img-thumbnail" >
 </div>
 
 During my first year of middle school, I took on a creative role in an English project where we were tasked with creating a children’s storybook. The goal was to write and illustrate a fictional story that would be engaging for young readers. I decided to focus on a character who embarks on a magical adventure after finding a mysterious key in their backyard. The project required not only imagination and storytelling but also the ability to make the story simple enough for children to understand. I took on the responsibility of crafting the plot, while collaborating with my classmates to ensure that the illustrations matched the tone of the story. Through this project, I learned the importance of storytelling and how to create relatable characters that would capture the attention of younger readers. It was a fun challenge to combine both writing and artwork, and it was rewarding to see how the final storybook came together.
