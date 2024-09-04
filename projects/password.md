@@ -1,0 +1,61 @@
+---
+layout: project
+type: project
+image: img/cotton/cotton-square.png
+title: "Password Changer"
+date: 2022
+published: true
+labels:
+  - Python
+  - Programming
+  - Logical Thinking
+  - Creaativity 
+summary: "A text adventure game that I developed for ICS 313."
+---
+
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
+The code provided is a simple password enhancement program written in Python. It takes a word or phrase as input from the user and transforms it into a more secure version by replacing specific characters with more secure or symbolic alternatives. For example, it replaces lowercase "a" with "@", "s" with "$", and "i" with "1", among others. At the end, the program appends an exclamation mark to the transformed word to further enhance its strength as a password. This is a basic form of password masking or strengthening that mimics common security recommendations to use symbols and numbers in passwords.
+
+The logic behind the program uses conditional statements and loops to iterate through each character of the input string, checking for the presence of specific characters, and replacing them with predefined symbols. Additionally, the first character of the string is capitalized to meet another common password security standard of using a mix of uppercase and lowercase letters. This approach allows for a straightforward yet effective transformation of basic text into a more secure format.
+
+Overall, this project is a practical demonstration of how simple code can apply multiple security rules to an input string. The focus is on enhancing the security of user-provided text, which could be a password, by converting common characters into symbols or numbers. It’s a foundational exercise in both string manipulation and implementing security practices in programming, making it a useful learning project for beginners in Python.
+
+### Python Code Example
+
+Here is a sample Python code:
+
+<hr>
+
+<pre><code>
+# Get input from the user
+word = input()
+
+# Initialize an empty string to store the password
+password = ''
+
+# Convert the first character to uppercase
+password += word[0].upper()
+
+# Process the rest of the characters starting from index 1
+for char in word[1:]:
+    if char == 'm':
+        password += 'M'
+    elif char == 'i':
+        password += '1'
+    elif char == 'a':
+        password += '@'
+    elif char == 'B':
+        password += '8'
+    elif char == 's':
+        password += '$'
+    else:
+        password += char
+
+# Print the final password with an exclamation mark
+print(password + '!')
+</code></pre>
+
+<hr>
+
+Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon"></i>jogarces/ics-313-text-game</a>
