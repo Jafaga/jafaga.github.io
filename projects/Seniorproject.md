@@ -13,7 +13,7 @@ labels:
 summary: "During my senior year of high school, I led a CTE project managing a commercial bakery, where I learned valuable lessons in leadership and communication, and in college, I aim to improve my public speaking skills while addressing the lack of hospitality shown toward newcomers in Hawaii by advocating for inclusivity and embracing the true meaning of aloha."
 ---
 
-<img class="img-fluid" src="../img/vacay/Cookie-picture.png">
+<img class="img-fluid" src="../img/Cookie-picture.png">
 
 A leadership role I took on was during my senior year of high school when I led a CTE project focused on managing a commercial bakery. Before the project, I conducted extensive research on what it takes to run a bakery, from handling responsibilities and advertising to using the right tools and managing staff. The knowledge I gained was put to the test as I led my classmates in producing a large number of cookies for the school faculty, simulating a real-life mass production setting. My role was to instruct my peers on how to operate the bakery, ensuring that each step of the process ran smoothly. Although I was able to teach new skills and guide my classmates, I realized that I could improve my leadership by giving clearer instructions. On our first attempt, I made the mistake of not converting a recipe ahead of time, which caused confusion among the group. From that experience, I learned to prepare thoroughly and assign specific roles to each person to ensure efficiency. My cultural background as a Filipino, where fast-paced communication is common, may have contributed to this challenge, but it also taught me the importance of slowing down and explaining things clearly to others.
 
