@@ -11,8 +11,8 @@ labels:
   - Growing Up 
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/Babypictures.HEIC">
-<img width="400px" class="rounded float-start pe-4" src="../img/ICSpicture.JPG">
+<img width="200px" class="rounded float-start pe-4" src="../img/Babypictures.HEIC">
+<img width="200px" class="rounded float-start pe-4" src="../img/ICSpicture.JPG">
 
 
 *"Yesterday was history, tommorrow is a mystery, but today is a gift" - Master Oogway*
