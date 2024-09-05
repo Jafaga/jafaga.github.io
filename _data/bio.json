@@ -4,7 +4,7 @@
     "label": "Student at the University of Hawaii Manōa",
     "picture": "https://github.com/jafaga.png",
     "email": "afagajus@hawaii.edu",
-    "phone": "(808)747-1203",
+    "phone": "",
     "website": "https://jafaga.github.io",
     "summary": "I am studying for my B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -25,19 +25,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "Java", "C++", "Javascript", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,69 +45,87 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Famous Footwear",
+      "position": "Sales Person",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-04",
+      "summary": "Seasonal Worker",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, customer service, and oversee store cashier and sales floor.",
+        "Experienced working part of a retail store"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Wailele Cafe",
+      "position": "Host",
+      "website": "",
+      "startDate": "2022-06-03",
+      "endDate": "2022-08-15",
+      "summary": "Seasonal Worker",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assist, greet/welcome, and clean out tables for guests",
+        "Answer phone and mark down reservations"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Konawaena Leo Club",
+      "website": "",
+      "position": "Member",
+      "startDate": "2019-08-09",
+      "endDate": "2022-05-23",
+      "summary": "Leadership, Experience, Oppurtunity",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Community Service to give back to the Hawaii/local community",
+        "Involed in tree planting, night markets, helping with the elderlys"
       ]
     },
     {
-      "organization": "",
+      "organization": "Tagnawa",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Volunteer",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Volunteer at the island of Maui, to assist with the people who lost their homes at Lahaina",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "CTE Honors Certificate",
+      "date": "Year 2022",
+      "awarder": "Konawaena High School",
+      "summary": "Career, technical, education path award"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Academic Honors",
+      "date": "Year 2022",
+      "awarder": "Konawaena High School",
+      "summary": "Achieving a GPA over 3.5"
+    },
+    {
+      "title": "Summa Cum Laude Diploma",
+      "date": "Year 2022",
+      "awarder": "Konawaena High School",
+      "summary": "Achieving a GPA over 3.8"
+    },
+    {
+      "title": "Activity Pin",
+      "date": "Year 2022",
+      "awarder": "Konawaena High School",
+      "summary": "Achieving Involvement in Community Service"
+    },
+    {
+      "title": "Outstanding Student",
+      "date": "Year 2022",
+      "awarder": "Konawaena High School",
+      "summary": "Chosen as male outstanding student"
     }
   ],
   "references": [
