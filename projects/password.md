@@ -10,7 +10,7 @@ labels:
   - Programming
   - Logical Thinking
   - Creaativity 
-summary: "A text adventure game that I developed for ICS 313."
+summary: "This Python program enhances password security by transforming user input through character replacements, capitalization, and symbol insertion, applying common password-strengthening practices."
 ---
 
 <img class="img-fluid" src="../img/password.jpeg">
