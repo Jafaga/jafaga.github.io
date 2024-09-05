@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Csmorecookie.jpeg
+image: img/smorecookie.jpeg
 title: "Senior Project"
 date: 2022
 published: true
