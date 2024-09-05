@@ -129,13 +129,19 @@
   ],
   "references": [
     {
-      "Aurelio Agcaoili": "Ilokano Language Professor at UH Manoa"
-    }
+      "name": "Aurelio Agcaoili",
+      "position": "Ilokano Language Professor",
+      "institution": "University of Hawaii at Mānoa"
+    },
     {
-      "Leigh Nakamura": "Formal teacher advisor at Konawaena High School"
-    }
+      "name": "Leigh Nakamura",
+      "position": "Former Teacher Advisor",
+      "institution": "Konawaena High School"
+    },
     {
-      "Karina Hernandez": "Formal Enlgish teacher and Leo Club advisor at Konawaena High School"
+      "name": "Karina Hernandez",
+      "position": "Former English Teacher and Leo Club Advisor",
+      "institution": "Konawaena High School"
     }
   ]
 }
