@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/resized_image_300px.jpeg
+image: img/Cookie-picture.png
 title: "Senior Project"
 date: 2022
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "During my senior year of high school, I led a CTE project managing a commercial bakery, where I learned valuable lessons in leadership and communication, and in college, I aim to improve my public speaking skills while addressing the lack of hospitality shown toward newcomers in Hawaii by advocating for inclusivity and embracing the true meaning of aloha."
 ---
 
-<img class="img-fluid" src="../img/Cookie-picture.png">
+<img class="img-fluid" src="../img/resized_image_300px.jpeg">
 <img class="img-fluid" src="../img/cookie1.jpeg">
 <img class="img-fluid" src="../img/cookie2.jpeg">
 <img class="img-fluid" src="../img/cookie3.jpeg">
