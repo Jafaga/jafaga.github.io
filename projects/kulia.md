@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Elementary-Schoolers.png
+image: img/web1_Kulia_3.jpg
 title: "8th Grade Kulia Project"
 date: 2018
 published: true
@@ -14,7 +14,8 @@ labels:
 summary: "The 8th Kulia Project was a middle school assignment where my group and I researched homelessness, created a professional presentation, and developed key skills in teamwork, research, and public speaking that helped prepare us for high school."
 ---
 
-<img class="img-fluid" src="../img/Elementary-Schoolers.png">
+<img class="img-fluid" src="../img/web1_Kulia_1.jpg">
+<img class="img-fluid" src="../img/web1_Kulia_2.jpg">
 
 The 8th Kulia Project was a big part of my final year at Konawaena Middle School, where all eighth graders had to pick a real-world issue to research and present on. My group decided to focus on homelessness because it’s something we’ve all noticed happening in our community. Over several months, we spent a lot of time researching the causes of homelessness, how it affects individuals and society, and what’s currently being done to help. We looked into local statistics, spoke to people in our community, and studied programs that aim to reduce homelessness. Our goal was to create a well-researched and engaging presentation that would not only teach people about the issue but also encourage them to think about how they could help.
 
