@@ -25,5 +25,5 @@ I was in charge of a lot of the research, especially around why homelessness hap
 
 Through this project, I learned so many important skills that have helped me even after middle school. I got better at researching, finding reliable information, and putting it together in a way that made sense. I also learned how important teamwork is because we had to work together to make sure our project was a success. Presenting in front of a panel of teachers, classmates, and other adults really pushed me out of my comfort zone, but it also helped me gain confidence in public speaking. This project taught me how to present professionally, work with others, and manage a long-term project—all of which have been useful as I’ve continued through high school.
 
-[Read more about the Kulia Project in West Hawaii Today article](https://www.westhawaiitoday.com/2018/04/07/hawaii-news/konawaena-students-present-kulia-projects/)
+[Read more about the Kulia Project in West Hawaii Today article]([https://www.westhawaiitoday.com/2018/04/07/hawaii-news/konawaena-students-present-kulia-projects/](https://www.westhawaiitoday.com/2018/04/28/hawaii-news/analyze-this-konawaena-students-present-months-of-research-to-peers-panel/))
 
