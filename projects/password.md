@@ -61,7 +61,7 @@ print(password + '!')
 <hr>
 
 
-## Here is a sample Python code taking the input of whatever password string the user inputs:
+## Sample Python code taking the input of whatever password string the user inputs:
 
 <hr>
 <pre><code>
