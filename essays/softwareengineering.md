@@ -11,7 +11,7 @@ labels:
   - Growing Up 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Babypictures.HEIC">
+<img width="200px" class="rounded float-start pe-4" src="../img/Babypictures.jpeg">
 <img width="200px" class="rounded float-start pe-4" src="../img/ICSpicture.JPG">
 
 
