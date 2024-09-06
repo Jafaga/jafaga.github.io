@@ -25,7 +25,7 @@ Overall, this project is a practical demonstration of how simple code can apply 
 
 ### Password Python Code
 
-##Here is a sample Python code with input Mypassword:
+## Here is a sample Python code with input Mypassword:
 
 <hr>
 
@@ -61,7 +61,7 @@ print(password + '!')
 <hr>
 
 
-##Here is a sample Python code taking the input of whatever password string the user inputs:
+## Here is a sample Python code taking the input of whatever password string the user inputs:
 
 <hr>
 <pre><code>
