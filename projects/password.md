@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/pass.jpeg
-title: "Password Changer"
+title: "The Ultimate (not so really) Password Changer"
 date: 2022
 published: true
 labels:
