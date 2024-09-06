@@ -102,7 +102,4 @@ for char in word:
 # Print the final password with an exclamation mark
 print(password + '!')
 
-
 <hr>
-
-
