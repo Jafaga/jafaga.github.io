@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/smorecookie.jpeg
-title: "Senior Project"
+title: "National Cookie Day!"
 date: 2022
 published: true
 labels:
@@ -18,11 +18,21 @@ summary: "During my senior year of high school, I led a CTE project managing a c
 <img class="img-fluid" src="../img/cookie2.jpeg">
 <img class="img-fluid" src="../img/cookie3.jpeg">
 
-A leadership role I took on was during my senior year of high school when I led a CTE project focused on managing a commercial bakery. Before the project, I conducted extensive research on what it takes to run a bakery, from handling responsibilities and advertising to using the right tools and managing staff. The knowledge I gained was put to the test as I led my classmates in producing a large number of cookies for the school faculty, simulating a real-life mass production setting. My role was to instruct my peers on how to operate the bakery, ensuring that each step of the process ran smoothly. Although I was able to teach new skills and guide my classmates, I realized that I could improve my leadership by giving clearer instructions. On our first attempt, I made the mistake of not converting a recipe ahead of time, which caused confusion among the group. From that experience, I learned to prepare thoroughly and assign specific roles to each person to ensure efficiency. My cultural background as a Filipino, where fast-paced communication is common, may have contributed to this challenge, but it also taught me the importance of slowing down and explaining things clearly to others.
+During my senior year of high school, I took on a leadership role by focusing a Career and Technical Education (CTE) project focused on managing a commercial bakery. In celebration of National Cookie Day, I decided to incorporate this theme into my project, as it provided the perfect opportunity to produce a large number of cookies for the school faculty. Since the project took place near the Christmas season, the spirit of giving and appreciation for our teachers and school staff became a central focus. I aimed to show gratitude to those who had provided us in school, and it was perfect aligning the project with the holiday’s values of kindness and generosity.
 
-In college, I want to improve my public speaking and presentation skills. During high school presentations, I often found myself relying heavily on my phone or notes, which made my delivery seem less natural. My goal is to become more confident in presenting without having to reference notes constantly. I aim to internalize the information ahead of time so that I can speak more fluently and comfortably in front of an audience. This will not only make me a better presenter but also help me in future job interviews and professional settings, where clear and confident communication is essential. To achieve this, I plan to practice speaking from memory and focus on maintaining eye contact during presentations.
+Before the project began, I conducted extensive research on what it takes to run a bakery, from managing responsibilities and advertising to selecting the right tools and organizing staff. The knowledge I gained was put to the test as I led my classmates in a mass production setting, instructing them on how to operate the bakery and ensuring that each step of the process ran smoothly. My role as a leader involved teaching my peers new skills, overseeing production, and troubleshooting any issues that arose. This gave me the role of what its like being a teacher, or the head of something. 
 
-One local issue that has caught my attention is the lack of hospitality some Hawaii residents show toward tourists and newcomers. Hawaii is known for its "aloha spirit," yet I’ve noticed that some locals, especially during the pandemic, have expressed resentment toward visitors. Growing up as an Asian and Pacific Islander in Hawaii, I feel a deep connection to this issue. My family, like many other Asian families, came to Hawaii as immigrants in search of a better life, and I understand the feeling of being unwelcome in a new place. This lack of hospitality reminds me of the discrimination Asians faced in Hawaii during the Pearl Harbor attack. I believe that embracing the true meaning of aloha, by welcoming all people to our islands, fosters a more harmonious community. Martin Luther King Jr. is someone I admire for his dedication to creating equality and ending segregation. His leadership inspires me to advocate for inclusivity and to ensure that Hawaii remains a place where everyone feels welcomed.
+Though, I realized that I could improve my leadership by giving clearer instructions. For example, on our first attempt, I forgot to convert a recipe ahead of time, which caused confusion amongst everyone who was helping me. This experience taught me the importance of thorough preparation and assigning specific roles to each person to ensure efficiency. Reflecting on my cultural background as a Filipino, where fast-paced communication is common, I recognized that this may have contributed to the challenge. However, it also underscored the importance of slowing down and clearly explaining processes to others.
+
+Looking ahead to college, I am committed to improving my public speaking and presentation skills. During high school presentations, I often relied heavily on my phone or notes, which made my delivery seem less natural. Because I also had to present slides along with my senior project, my goal is to become more confident in presenting without constantly referencing notes, allowing me to speak more fluently and comfortably in front of an audience. By internalizing information beforehand, I believe I will become a more effective presenter. This skill will not only enhance my performance in academic settings but also prepare me for future job interviews and professional situations where clear and confident communication is essential. To achieve this, I plan to practice speaking from memory and focus on maintaining eye contact during presentations.
+
+In the end, I learned a lot from this project, not only about leadership and teamwork but also about self-improvement. The experience taught me the value of preparation, clear communication, and adaptability, skills that will serve me well in both academic and professional settings. I also gained a deeper appreciation for the power of collaboration, as the project’s success relied on the contributions and efforts of everyone involved. Moving forward, I am excited to build upon these lessons and continue developing my leadership and communication skills, knowing that they are essential to my growth and success in college and beyond.
+
+
+
+
+
+
 
 
 
