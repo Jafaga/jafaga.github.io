@@ -9,7 +9,7 @@ labels:
   - Reflection 
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/javascript.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/SMART.png">
 
 ## Stackoverflow Questions 
 <b> The Smartest Way: </b> The user asks how to store a hardcoded JSON string into a variable in C#. They provided an example JSON object but are unsure how to properly assign it to a variable in their code. The question is clear but could benefit from details on what they’ve tried or any specific error they’ve encountered.
