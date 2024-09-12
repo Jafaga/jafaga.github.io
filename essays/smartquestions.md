@@ -18,9 +18,9 @@ The Stack Overflow question ["Store Hardcoded JSON string to variable"](https://
 
 This illustrates how asking a reasonably clear question can result in helpful, relevant responses.
 
-<b> (The not so smart way: </b> The user reports an issue with NW.JS where the application does not go fullscreen, despite their efforts to make it work. The problem description lacks details about system setup, attempted solutions, or error messages, making it harder for responders to provide precise help.
+<b> The not so smart way: </b> The user reports an issue with NW.JS where the application does not go fullscreen, despite their efforts to make it work. The problem description lacks details about system setup, attempted solutions, or error messages, making it harder for responders to provide precise help.
 
-The Stack Overflow question "NW.JS won't get Fullscreen whatever I did" demonstrates a less optimal example of smart question-asking as per Eric Raymond's guidelines. The user describes the issue but lacks critical details, such as the specific steps already taken, error messages, or system specifications, leading to a somewhat vague inquiry.
+The Stack Overflow question ["NW.JS won't get Fullscreen whatever I did"](https://stackoverflow.com/questions/78971218/nw-js-wont-get-fullscreen-whatever-i-did) demonstrates a less optimal example of smart question-asking as per Eric Raymond's guidelines. The user describes the issue but lacks critical details, such as the specific steps already taken, error messages, or system specifications, leading to a somewhat vague inquiry.
 
 The responses reflect the user's vague question, with suggestions offered based on assumptions rather than clear troubleshooting. If the question were more precise and showed more research, the answers could have been more efficient.
 
