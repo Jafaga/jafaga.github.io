@@ -11,6 +11,19 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/javascript.jpeg">
 
+## Stackoverflow Questions 
+<b> The Smartest Way: </b> The user asks how to store a hardcoded JSON string into a variable in C#. They provided an example JSON object but are unsure how to properly assign it to a variable in their code. The question is clear but could benefit from details on what they’ve tried or any specific error they’ve encountered.
+
+The Stack Overflow question ["Store Hardcoded JSON string to variable"](https://stackoverflow.com/questions/22998177/store-hardcoded-json-string-to-variable) is a fairly good example of a smart question, but could be improved in alignment with Eric Raymond's guidelines. The user provides a clear problem statement, sample code, and context (C#), but does not show what they have tried or researched beforehand, which would strengthen the question. Despite this, the community provided efficient answers, offering both direct solutions and explanations.
+
+This illustrates how asking a reasonably clear question can result in helpful, relevant responses.
+
+<b> (The not so smart way: </b> The user reports an issue with NW.JS where the application does not go fullscreen, despite their efforts to make it work. The problem description lacks details about system setup, attempted solutions, or error messages, making it harder for responders to provide precise help.
+
+The Stack Overflow question "NW.JS won't get Fullscreen whatever I did" demonstrates a less optimal example of smart question-asking as per Eric Raymond's guidelines. The user describes the issue but lacks critical details, such as the specific steps already taken, error messages, or system specifications, leading to a somewhat vague inquiry.
+
+The responses reflect the user's vague question, with suggestions offered based on assumptions rather than clear troubleshooting. If the question were more precise and showed more research, the answers could have been more efficient.
+
 ## Why Smart Questions Are Important
 Smart Questions are important for software engineers since they save time and resources, encourages more collaboration on questions, and a quicker way to problem solving. Asking questions the smart way shows that an individual has made commitment to understand the issue, has done background research, and has the mindset to solve it rather than relying on others to do it for them. This approach promote a culture respect and mutual exchange of knowledge, which is important in the real world of software engineering. 
 
