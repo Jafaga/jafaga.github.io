@@ -18,12 +18,12 @@ Smart Questions are important for software engineers since they save time and re
 Questions that follow the precepts of smart questions are well research, precise, and demonstrate willingness to collaborate. Like if someone were to ask for help after providing detailed information on their issue, of what they've tried and what resources they've concluded, they are more likely to receive help. To summarize, questions that are vague, poorly constructed, or suggest that the asker has not done any preliminary work tend to be ignored or met with people more likely to ignore the question. 
 
 <b> Research Effort: </b> The asker demonstrates they've looked for solutions--like Googling, referring to other posts, or FAQs.
-<b> Precision: </b> The question is concise and focused on a specific problem. 
-<b> Respectful Attitude: </b> Possibility that there is an understanding that no one may not obligate to help, and the asker approaches the community and professionalism. 
+<br/> <b> Precision: </b> The question is concise and focused on a specific problem. 
+<br/> <b> Respectful Attitude: </b> Possibility that there is an understanding that no one may not obligate to help, and the asker approaches the community and professionalism. 
 
 ## Poor Questions On the Other Hand: 
-<b> Vague: </b> No clear description of the problem or what has already been done 
-<b> Entitled: </b> The asker behaves as though they are owed an answer without demonstrating effort or respect for the expert's time. 
+<br/> <b> Vague: </b> No clear description of the problem or what has already been done 
+<br/> <b> Entitled: </b> The asker behaves as though they are owed an answer without demonstrating effort or respect for the expert's time. 
 
 Smart Responses include the meaningful guidance or direction for further research, while poor responses often result from frustration or a sense of time wasted due to the asker's lack of preparation. Like, if someone receives the response of "RTFM" (Read the F*cking Manual), it is usually since they have not put in the effort to look for solution themselves. Smart responses tend to guide the asker to the right resources, or to help them understand their issue better rather than giving the answer right away. 
 
