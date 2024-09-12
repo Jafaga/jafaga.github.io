@@ -17,7 +17,7 @@ Smart Questions are important for software engineers since they save time and re
 ## What is Considered a 'Smart Question' 
 Questions that follow the precepts of smart questions are well research, precise, and demonstrate willingness to collaborate. Like if someone were to ask for help after providing detailed information on their issue, of what they've tried and what resources they've concluded, they are more likely to receive help. To summarize, questions that are vague, poorly constructed, or suggest that the asker has not done any preliminary work tend to be ignored or met with people more likely to ignore the question. 
 
-<b> Research Effort: <b> The asker demonstrates they've looked for solutions--like Googling, referring to other posts, or FAQs.
+<b> Research Effort: </b> The asker demonstrates they've looked for solutions--like Googling, referring to other posts, or FAQs.
 Precision: The question is concise and focused on a specific problem. 
 Respectful Attitude: Possibility that there is an understanding that no one may not obligate to help, and the asker approaches the community and professionalism. 
 
