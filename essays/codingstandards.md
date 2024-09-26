@@ -1,8 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding Craftmanship"
-# All dates must be YYYY-MM-DD format!
+title: "Coding Craftsmanship"
 date: 2024-09-25
 published: true
 labels:
@@ -11,8 +10,7 @@ labels:
   - Standards 
 ---
 
-<img width="450px" class="rounded float-start pe-4" src="../img/SMART.png">
-
+![SMART goals graphic](../img/SMART.png){width="450px" align="left" style="border-radius: 8px; margin-right: 20px;"}
 
 ## Coding Standards: More Than Just Rules and Curly Braces
 Coding standards are often seen as picky little details, like whether your curly braces should be on the same line or the next, or if your indentation is off by a space. For some, these rules might seem like nothing more than a distraction from the real coding work. But for me, coding standards are way more than that. They’re a core part of writing code that’s clean, easy to maintain, and helps others understand what’s going on. If I had to pick just one thing that has the biggest impact on the quality of code, it would be sticking to solid coding standards.
