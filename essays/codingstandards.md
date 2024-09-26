@@ -10,7 +10,7 @@ labels:
   - Standards 
 ---
 
-<img width="1100px" class="rounded float-start pe-4" src="../img/Craftsmanship.jpeg>
+<img width="1000px" class="rounded float-start pe-4" src="../img/Craftsmanship.jpeg">
 
 
 ## Coding Standards: More Than Just Rules and Curly Braces
