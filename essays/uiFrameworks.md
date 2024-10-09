@@ -14,7 +14,7 @@ labels:
   - Web Development  
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/javascript.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap.png">
 
 Web development has come a long way from the days of manually coding each element in the HTML mile and styling it through the style.css file. Developers have access to power tools that streamline the process of building websites and user interfaces. Bootstrap for example is one I recently learned how to use. But with the complexity that comes with learning these different kinds of frameworks, some might think: why do we really need to know how to do those things? Why not just stick with raw HTML and CSS? 
 
