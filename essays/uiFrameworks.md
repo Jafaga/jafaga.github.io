@@ -41,8 +41,8 @@ The flexibility and responsiveness of Bootstrap stand out as its greatest streng
 
 Despite its many advantages, Bootstrap isn’t perfect. There were moments when I struggled to override default styles for a custom design. However, I found that the time saved using its pre-made components far outweighed these minor challenges.
 
-<img width="300px" class="rounded float-end ps-4" src="../img/bootstrap-grid.png">
-<img width="300px" class="rounded float-end ps-4" src="../img/bootstrap-grid.png">
+<img width="300px" class="rounded float-end ps-4" src="../img/appleReplica.png">
+<img width="300px" class="rounded float-end ps-4" src="../img/appleActual.png">
 
 ## Conclusion: Is the Investment Worth It?
 Learning a UI framework like Bootstrap 5 is undoubtedly a time investment, especially for beginners like me. However, once I overcame the initial frustrations, the rewards were clear. From speeding up development to ensuring consistent designs, Bootstrap simplifies the web development process in many ways.
