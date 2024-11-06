@@ -8,7 +8,7 @@ labels:
   - Nextjs
 ---
 
-<img width="1300px" class="rounded float-start pe-4" src="../img/studyPlaylist.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/studyPlaylist.png">
 
 # Personalized Study Music Playlist 
 
