@@ -12,7 +12,7 @@ labels:
 
 # Personalized Study Music Playlist 
 
-**Proposers**: Justine Afaga & Lewin Lin 
+**Proposers**: Justine Afaga & Lewen Lin 
 
 ## Overview 
 **The Issue**: For many students, studying effectively can hinge on having the right environment and resources. Music can enchance focus, reduce stress, and even boost memory. However, find the right study music for each task can be hard, as one's concentration needs vary depending on the mood, study goals, and workload intensity. While some might benefit from ambient background noise, others may require specific beats or melodies to maintain focus or enter a flow state. As students from UH Manoa, we juggle from multiple academic responsibilities and we often focus a lot on studying, which having an app that simplifies and personalizes our study music can be really helpful. 
