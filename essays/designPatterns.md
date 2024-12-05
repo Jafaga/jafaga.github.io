@@ -9,7 +9,7 @@ labels:
   - Design Patterns  
 ---
 
-<img width="1300px" class="rounded float-start pe-4" src="../img/Craftsmanship.jpeg">
+<img width="1300px" class="rounded float-start pe-4" src="../img/designPatterns.png">
 
 Imagine you're building a hourse with any sort of plan. You might gather bricks or wood together, hoping that it will hold up everything. Though in the end, the result will most likely lead the house to be messy looking, and perhaps it might fall apart one day without proper structure. And that my friend is why we need blue prints for building, which they help engineers design things that are functional, durable, and adaptable for future use. In another case, software engineering has this thing called <b>design patterns</b>, which are those blue prints. They're a kind of strategic way for solving common problems, helping us create systems that is efficient, reliable and easy to understand. 
 
