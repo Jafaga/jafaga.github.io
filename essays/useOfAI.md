@@ -9,8 +9,8 @@ labels:
   - Artificial Intelligence   
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/aiJarvis.jpeg">
-<img width="600px" class="rounded float-start pe-4" src="../img/elonMusk.jpeg">
+<img width="700px" class="rounded float-start pe-4" src="../img/aiJarvis.jpeg">
+<img width="700px" class="rounded float-start pe-4" src="../img/elonMusk.jpeg">
 
 
 # How AI Became My Guide in ICS 314 
