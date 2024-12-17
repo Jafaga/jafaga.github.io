@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Title of Essay"
+title: "How AI Became My Guide in ICS 314"
 date: 2024-12-16
 published: true
 labels:
@@ -9,11 +9,11 @@ labels:
   - Artificial Intelligence   
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/aiJarvis.jpeg">
-<img width="400px" class="rounded float-start pe-4" src="../img/elonMusk.jpeg">
+<img width="600px" class="rounded float-start pe-4" src="../img/aiJarvis.jpeg">
+<img width="600px" class="rounded float-start pe-4" src="../img/elonMusk.jpeg">
 
 
-# Title Here 
+# How AI Became My Guide in ICS 314 
 
 ## I. Introduction 
 Artificial Intelligence (AI) is changing how education is taught, especially in subjects like Software Engineering where problem-solving, creativity, and technical precision are things we need to recall. In the context of ICS 314, AI was what guided me through my learning journey. By using AI tools--mostly ChatGPT-- I was able to access live guidance and help with my assignments, which at first was challenging to get used to since I didn't want to heavily rely on ChatGPT to generate things for me. Using AI has become increasingly useful in Software Engineering because of its ability to help with debugging, generating, and auto-completing a line of code that has an error, providing explanations or examples for complex concepts. In ICS 314, I take it as an advantage in different ways: to learn new concepts, debug issues, brainstorm project ideas, and refine my understanding of software engineering concepts. Each interaction with AI, whether through a structured task or casual experimentation, brought new insights into how these tools can enhance learning while also revealing their limitations. This essay reflects on how I integrated AI into my coursework, analyzing its impact on my learning process, its practical applications, and its broader application for software engineering education.
