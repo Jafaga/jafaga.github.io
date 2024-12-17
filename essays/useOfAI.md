@@ -9,7 +9,9 @@ labels:
   - Artificial Intelligence   
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/designPatterns.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/aiJarvis.jpeg">
+<img width="400px" class="rounded float-start pe-4" src="../img/elonMusk.jpeg">
+
 
 # Title Here 
 
