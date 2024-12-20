@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Title"
+title: "To Infinity, and Beyond into Software Engineering!"
 date: 2024-12-19
 published: true
 labels:
@@ -9,8 +9,7 @@ labels:
   - Software Engineering   
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/aiJarvis.jpeg">
-<img width="650px" class="rounded float-start pe-4" src="../img/elonMusk.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/elonMusk.jpeg">
 
 During this course, I've learned that software engineering is more than just creating web applications. While learning how to build web applications, I realized that ICS 314 is all about the deep details of software engineering concepts. Looking back, I'll highlight at least three topics I've learned from this class: Open Source Software Development, Agile Project Management, and Design Patterns, to show how they apply to the larger filed of software engineerning. 
 
