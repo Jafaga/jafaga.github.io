@@ -11,7 +11,8 @@ labels:
 summary: "This Python program enhances password security by transforming user input through character replacements, capitalization, and symbol insertion, applying common password-strengthening practices."
 ---
 *Connecting Through Music: My Experience with the Jam Sesh-ion 🎶 Project*
-<img width="500px" class="img-fluid" src="../img/Python-Logo.png">
+
+<img width="500px" class="img-fluid" src="../img/jamSession.png">
 
 ## What This Application Is About
 <b>Jam Sesh-ion 🎶</b> is a web app created to connect students at the University of Hawaiʻi at Mānoa who love music. The idea came from noticing that while so many students have amazing musical talent, they don’t always have an easy way to find others with similar skills and interests. Because of this, many miss out on the chance to form meaningful connections or even dynamic performing groups. Jam Sesh-ion was designed to fix that by providing a platform for students to showcase their musical style, connect with others, and organize jam sessions easily.
